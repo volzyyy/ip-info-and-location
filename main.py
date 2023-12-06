@@ -1,7 +1,7 @@
 import requests
 import json
 import logging 
-print("Made by volzy.../\https://github.com/volzyyy/volzyyy ")_
+print("Made by volzy.../\https://github.com/volzyyy/volzyyy ")
 try:
   inp = input("Please enter an ip: ")
 
